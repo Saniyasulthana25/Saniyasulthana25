@@ -9,7 +9,9 @@
 ## 🚀 Projects
 - [To-Do App](http://127.0.0.1:5500/Portfolio/projects/todo/index.html)  
 - [Calculator](http://127.0.0.1:5500/Portfolio/projects/calculator/index.html)  
-- [Portfolio Website](http://127.0.0.1:5500/Portfolio/index.html)  
+- [Portfolio Website](http://127.0.0.1:5500/Portfolio/index.html)
+- [Quiz](http://127.0.0.1:5500/Portfolio/projects/quiz/index.html)
+- [Weather-App](http://127.0.0.1:5500/Portfolio/projects/weatherapp/index.html)
 
 ---
 
