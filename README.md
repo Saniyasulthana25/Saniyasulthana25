@@ -21,4 +21,4 @@
 ## 📫 Connect with me
 - 📧 Email: [saniyaa2501@gmail.com](https://mail.google.com/mail/u/0/#inbox)  
 - 💼 LinkedIn: [saniyasulthana25](https://www.linkedin.com/in/saniya-sulthana25/) 
-- 🐙 GitHub: [saniyasutthana25](https://github.com/saniyasutthana25)
+- 🐙 GitHub: [saniyasutthana25](https://github.com/Saniyasulthana25)
