@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Saniya Sutthana  
+# Hi there 👋 I'm Saniya Sulthana  
 
 💻 Aspiring *Junior Web Developer* | 🎓 B.Sc Computer Science Graduate  
 🌱 Currently learning *HTML, CSS, JavaScript* and building cool projects.  
